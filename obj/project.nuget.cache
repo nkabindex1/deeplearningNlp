@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vg778GtOpUgYSa3U7CNtVlmnjnP/uqfDPgfurVxBJTu7h+fXhA2Zr9g0tXJaQuiXC2CBty9zLMdTHNF4uy4uow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xolan\\OneDrive\\Documents\\Honours\\DeepLearningNlp\\DeepLearningNlp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xolan\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\xolan\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\xolan\\.nuget\\packages\\baselibs\\1.6.4.382\\baselibs.1.6.4.382.nupkg.sha512",
+    "C:\\Users\\xolan\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
